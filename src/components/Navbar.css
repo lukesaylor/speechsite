@@ -1,0 +1,27 @@
+.Navbar {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 10vh;
+  background-color: gray;
+  border-bottom: thin solid white;
+  justify-content: space-between;
+}
+
+.ButtonsContainer {
+  display: flex;
+  height: 10vh;
+  flex-direction: row;
+   
+}
+
+.Logo {
+  display: flex;
+  
+   
+  align-self: center;
+  font-size: 6vh;
+}

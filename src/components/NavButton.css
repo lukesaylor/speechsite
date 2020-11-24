@@ -1,0 +1,13 @@
+.NavButton {
+    
+    display: flex;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    border: thin solid black;
+    height: 5vh; 
+    align-items: center;
+    font-size: 3vh;
+    align-self: center;
+    
+}
