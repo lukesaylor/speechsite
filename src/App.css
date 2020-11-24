@@ -1,1 +1,8 @@
- 
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: aquamarine;
+  background-size: cover;
+}

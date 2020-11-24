@@ -7,7 +7,7 @@
   width: 100vw;
   height: 10vh;
   background-color: gray;
-  border-bottom: thin solid white;
+  border-bottom: thick solid teal;
   justify-content: space-between;
 }
 
@@ -20,8 +20,11 @@
 
 .Logo {
   display: flex;
-  
+  padding: 10px;
    
   align-self: center;
   font-size: 6vh;
+  text-decoration: underline;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: teal;
 }
